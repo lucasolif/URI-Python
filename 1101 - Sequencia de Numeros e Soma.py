@@ -20,3 +20,4 @@ while num2 > 0 or num1 > 0:
             soma += x
             print(f"{x}", end=" ")
         print(f"Sum={soma}")
+
